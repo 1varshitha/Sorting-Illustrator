@@ -1,14 +1,13 @@
 # SORTING ILLUSTRATOR
 A Web-based Project developed to illustrate different sorting techniques using a bar graph representation of input array values.
-<details>
-<summary>Implemented Algorithms</summary>
 
+<summary>Implemented Algorithms</summary>
+<details>
 - Selection Sort
 - Bubble Sort
 - Insertion Sort
 - Quick Sort
 - Merge Sort
-  
 </details>
 
 <summary>Features</summary>
@@ -38,4 +37,4 @@ A Web-based Project developed to illustrate different sorting techniques using a
    <img width="956" alt="252312057-f4316ce4-32d7-4e3a-ac18-ba06dabc05a9" src="https://github.com/1varshitha/Sorting-Illustrator/assets/128916526/5db803cc-7af2-4fca-a089-5fa965f3f93e">
 
 6. **Merge Sort**
-<img width="960" alt="252312162-7acd06dd-1714-44a5-84ea-c566bfb2f37b" src="https://github.com/1varshitha/Sorting-Illustrator/assets/128916526/e6efd92f-f3fa-4052-9cc9-621a8dff46b8">
+   <img width="960" alt="252312162-7acd06dd-1714-44a5-84ea-c566bfb2f37b" src="https://github.com/1varshitha/Sorting-Illustrator/assets/128916526/e6efd92f-f3fa-4052-9cc9-621a8dff46b8">
