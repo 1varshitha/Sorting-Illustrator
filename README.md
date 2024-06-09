@@ -3,21 +3,21 @@ A Web-based Project developed to illustrate different sorting techniques using a
 
 <summary>Implemented Algorithms</summary>
 <details>
-- Selection Sort
-- Bubble Sort
-- Insertion Sort
-- Quick Sort
-- Merge Sort
+- Selection Sort<br>
+- Bubble Sort<br>
+- Insertion Sort<br>
+- Quick Sort<br>
+- Merge Sort<br>
 </details>
 
 <summary>Features</summary>
 <details>
--Customizable Size and Speed features to enhance user experience.
--Interpretation of colors:
-   . Green - Default / Unsorted Elements
-   . Orange - Sorted Elements
-   . Yellow - Current Position (Selection Sort, Bubble Sort, Insertion Sort)
-   . Red - Local Minimum (Selection Sort) & Pivot Element (Quick Sort)
+-Customizable Size and Speed features to enhance user experience.<br>
+-Interpretation of colors:<br>
+   . Green - Default / Unsorted Elements<br>
+   . Orange - Sorted Elements<br>
+   . Yellow - Current Position (Selection Sort, Bubble Sort, Insertion Sort)<br>
+   . Red - Local Minimum (Selection Sort) & Pivot Element (Quick Sort)<br>
 </details>
 
  **Screen Shots of the project**
